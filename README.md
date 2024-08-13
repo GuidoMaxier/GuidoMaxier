@@ -61,6 +61,8 @@ Participé en proyectos dentro de **No Country**, una plataforma de simulación 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Turbo Pascal](https://img.shields.io/badge/Turbo_Pascal-2F6C4F?logo=pascal&logoColor=white) <!-- Agrega un ícono de Turbo Pascal si está disponible -->
 ![AutoIt](https://img.shields.io/badge/AutoIt-1E6F7F?logo=autoit&logoColor=white) <!-- Agrega un ícono de AutoIt si está disponible -->
 
 #### Frameworks y Librerías
