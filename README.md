@@ -29,6 +29,8 @@ Este es un proyecto integrador para la carrera de **Tecnicatura en Desarrollo de
 ## 📊 Estadísticas de GitHub
 
 ![Profile views](https://komarev.com/ghpvc/?username=GuidoMaxier&color=blueviolet)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoMaxier&layout=compact&theme=radical)
 <!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuidoMaxier&show_icons=true&theme=radical)
@@ -39,7 +41,14 @@ Este es un proyecto integrador para la carrera de **Tecnicatura en Desarrollo de
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hernan%20Casasola-blue)](https://www.linkedin.com/in/hernan-casasola/)
-
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hernan%20Casasola-blue)](https://www.linkedin.com/in/hernan-casasola/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493811234567)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu_usuario)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tu_usuario)
+-->
 ## 🛠️ Tecnologías y Herramientas
 
 ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
@@ -55,3 +64,4 @@ Este es un proyecto integrador para la carrera de **Tecnicatura en Desarrollo de
 ## 🏆 Resumen de Contribuciones
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=GuidoMaxier&theme=radical)
+
