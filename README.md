@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/hernan-casasola/# ¡Hola, soy Hernan Casasola! (Guido Maxier)
+# ¡Hola, soy Hernan Casasola! (Guido Maxier)
 
 Actualmente, estoy cursando la carrera de **Tecnicatura en Desarrollo de Software** y tengo experiencia trabajando con diversas tecnologías modernas.
 
@@ -35,7 +35,6 @@ Este es un proyecto integrador para la carrera de **Tecnicatura en Desarrollo de
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuidoMaxier&theme=radical)
 [![HarmonyHub](https://github-readme-stats.vercel.app/api/pin/?username=GuidoMaxier&repo=HarmonyHub&theme=radical)](https://github.com/GuidoMaxier/HarmonyHub)
 -->
-
 
 ## 🌐 Conéctate conmigo
 
