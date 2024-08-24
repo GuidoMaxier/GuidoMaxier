@@ -9,6 +9,8 @@ Este es un proyecto integrador para la carrera de **Tecnicatura en Desarrollo de
 
 - **Frontend:** Vite, React, React Router, React Icons, Tailwind CSS, Daisy UI, Framer Motion
 - **Backend:** Django (API provista por la asignatura Programación 3)
+- **Despliegue**:
+  - Vercel: [HarmonyHub en Vercel](https://harmony-hub-five.vercel.app/)
 
 ## 🌱 Tecnologías que utilizo
 
